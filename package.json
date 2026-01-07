@@ -1,0 +1,27 @@
+{
+  "name": "bfs-intelligence",
+  "version": "1.0.0",
+  "description": "Black Forest Supplements Influencer Intelligence Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "node server.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.10.0",
+    "lucide-react": "^0.263.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
